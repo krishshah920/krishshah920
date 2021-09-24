@@ -12,10 +12,10 @@
 </p>
 <p>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://camo.githubusercontent.com/c9ae1c699b999f4c59aa912356dee1fac73f85c9ed468a10ec992e04ade66b33/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b6172616e706174656c323332392673686f775f69636f6e733d7472756526686964653d697373756573" data-canonical-src="https://github-readme-stats.vercel.app/api?username=krishshah920&amp;show_icons=true&amp;hide=issues" style="max-width: 100%;">
+  <img align="center" src="https://camo.githubusercontent.com/c9ae1c699b999f4c59aa912356dee1fac73f85c9ed468a10ec992e04ade66b33/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b6172616e706174656c323332392673686f775f69636f6e733d7472756526686964653d697373756573" data-canonical-src="https://github-readme-stats.vercel.app/api?username=krishshah920&show_icons=true&theme=radical&hide=issues" style="max-width: 100%;">
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://camo.githubusercontent.com/0c7364e5192f34cab19692919daf4b34c1547bc0a0bb590d4e99462761e87eb2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6172616e706174656c32333239266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishshah920&amp;layout=compact" style="max-width: 100%;">
+  <img align="center" src="https://camo.githubusercontent.com/0c7364e5192f34cab19692919daf4b34c1547bc0a0bb590d4e99462761e87eb2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6172616e706174656c32333239266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishshah920&amp;layout=compact&theme=radical" style="max-width: 100%;">
 </a>
   </p>
   
