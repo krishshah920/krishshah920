@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishshah920&show_icons=true&theme=radical&hide=issues" data-canonical-src="https://github-readme-stats.vercel.app/api?username=krishshah920&show_icons=true&theme=radical&hide=issues" style="max-width: 100%;">
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishshah920&amp;layout=compact&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishshah920&amp;layout=compact&theme=radical" style="max-width: 100%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishshah920&amp;layout=compact&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishshah920&amp;theme=radical" style="max-width: 100%;">
 </a>
   </p>
   
