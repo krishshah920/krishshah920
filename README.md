@@ -7,26 +7,21 @@
 </p>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a>
- 
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a"><img src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" style="max-width: 100%;"></a>
- 
-  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a>
- 
-  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a>
- 
+  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a> 
+  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a> 
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"><img src="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" style="max-width: 100%;"></a>
- 
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a>
- 
    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a"><img src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" style="max-width: 100%;"></a>
 
 </p>
 <p>
- 
+ <a href="https://github.com/krishshah920?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishshah920&show_icons=true&theme=radical&hide=issues" data-canonical-src="https://github-readme-stats.vercel.app/api?username=krishshah920&show_icons=true&theme=radical&hide=issues" style="max-width: 100%;">
-
+ </a>
+ <a href="https://github.com/krishshah920?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishshah920&amp;layout=compact&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishshah920&amp;layout=compacttheme=radical" style="max-width: 100%;">
-
+ </a>
   </p>
   
 
