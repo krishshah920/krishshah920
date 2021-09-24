@@ -1,4 +1,4 @@
-<a href="https://jhey.dev" rel="nofollow"><video src="https://github.com/krishshah920/krishshah920/blob/main/LinkedIn%20Banner.mp4" alt="Social banner for Krishna" style="max-width: 100%;"></a>
+<a href="https://krishnashahu.com.np" rel="nofollow"><img src="https://github.com/krishshah920/krishshah920/blob/main/LinkedIn%20Banner.mp4" alt="Social banner for Krishna" style="max-width: 100%;"></a>
 
 
 <!--
