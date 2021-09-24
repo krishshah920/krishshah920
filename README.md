@@ -1,4 +1,4 @@
-<a href="https://krishnashahu.com.np" rel="nofollow"><img src="https://github.com/krishshah920/krishshah920/blob/main/LinkedIn%20Banner.svg" alt="Social banner for Krishna" style="max-width: 100%;"></a>
+<a href="https://krishnashahu.com.np" target="_blank" rel="nofollow"><img src="https://github.com/krishshah920/krishshah920/blob/main/LinkedIn%20Banner.gif" alt="Social banner for Krishna" style="max-width: 100%;"></a>
 
 
 <!--
