@@ -1,14 +1,12 @@
 <a href="https://krishnashahu.com.np" target="_blank" rel="nofollow"><img src="https://github.com/krishshah920/krishshah920/blob/main/Header.gif" alt="Social banner for Krishna" style="max-width: 100%;"></a>
 <h1 align="center">Hey! 👋</h1>
 
+<p align="center"> I'm Krishna Shahu, a Front End Web Developer, Designer & Creator 🤓. </p>
+<p align="center">You can reach out to me on <a href="https://www.linkedin.com/in/heinz-martin/" rel="nofollow"><img src="https://github.com/krishshah920/krishshah920/blob/main/li.png" alt="LinkedIn" title="LinkedIn icon without padding" style="max-width: 100%;"></a></p>
 
-
+<h1 align="center">Stay Awesome</h1>
 
 <!--
-**krishshah920/krishshah920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
