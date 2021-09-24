@@ -1,5 +1,5 @@
-[![Header](https://raw.githubusercontent.com/krishshah920/<OWNER>/<OWNER>/LinkedIn Banner.mp4 "Header")](https://krishnashahu.com.np/)
-### Hi there 👋
+<a href="https://jhey.dev" rel="nofollow"><img src="https://github.com/krishshah920/krishshah920/blob/main/LinkedIn%20Banner.svg" alt="Social banner for Krishna" style="max-width: 100%;"></a>
+
 
 <!--
 **krishshah920/krishshah920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
