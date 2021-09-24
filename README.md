@@ -13,7 +13,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a"><img src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a> 
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a> 
-  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"><img src="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" style="max-width: 100%;"></a>
+ <br> <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"><img src="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a"><img src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" style="max-width: 100%;"></a>
 </p>
@@ -27,9 +27,9 @@
  </a>
   </p>
   
- <hr>
-<h2 align="center">Stay Awesome !</h2>
- <hr>
+
+<h1 align="center">Stay Awesome !</h1>
+
 <!--
 - 🔭 I’m currently doing graduation.
 - 🤔 I’m looking for oppurtunities to strengthen my skills.
