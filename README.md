@@ -7,7 +7,7 @@
  or 
   <a target="_blank" href="mailto: krishshah920@gmail.com" rel="nofollow"><img src="https://img.icons8.com/color/20/000000/gmail-new.png" alt="Gmail" title="Gmail icon without padding" style="max-width: 100%;"></a>
  <hr>
-
+<h1>🔧 Technologies & Tools</h1>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a"><img src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" style="max-width: 100%;"></a>
