@@ -17,7 +17,8 @@
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a"><img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a" alt="" data-canonical-src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a>
   
 </p>
-<hr>
+
+<h1>📈 GitHub Stats</h1>
 <p>
  <a href="https://github.com/krishshah920?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishshah920&show_icons=true&theme=radical&hide=issues" data-canonical-src="https://github-readme-stats.vercel.app/api?username=krishshah920&show_icons=true&theme=radical&hide=issues" style="max-width: 100%;">
