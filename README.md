@@ -28,7 +28,7 @@
   </p>
   
  <hr>
-<h1 align="center">Stay Awesome !</h1>
+<h2 align="center">Stay Awesome !</h2>
  <hr>
 <!--
 - 🔭 I’m currently doing graduation.
