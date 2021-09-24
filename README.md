@@ -1,7 +1,7 @@
 <a target="_blank" href="https://krishnashahu.com.np"  rel="nofollow"><img src="https://github.com/krishshah920/krishshah920/blob/main/Header.gif" alt="Social banner for Krishna" style="max-width: 100%;"></a>
 <h1 align="center">Hey! 👋</h1>
 <p align="center"> I'm Krishna Shahu, a Front End Web Developer, Designer & Creator 🤓. </p>
-<p align="center">You can reach out to me on <a target="_blank" href="https://www.linkedin.com/in/krishna-shahu-4b20b516a/" rel="nofollow"><img src="https://github.com/krishshah920/krishshah920/blob/main/li.png" alt="LinkedIn" title="LinkedIn icon without padding" style="max-width: 100%;"></a>
+<p align="center">You can reach out to me on <a target="_blank" href="https://www.linkedin.com/in/krishna-shahu-4b20b516a/" rel="nofollow"><img src="https://img.icons8.com/external-justicon-flat-justicon/20/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="LinkedIn" title="LinkedIn icon without padding" style="max-width: 100%;"></a>
  or 
   <a target="_blank" href="mailto: krishshah920@gmail.com" rel="nofollow"><img src="https://img.icons8.com/color/20/000000/gmail-new.png" alt="Gmail" title="Gmail icon without padding" style="max-width: 100%;"></a>
 </p>
