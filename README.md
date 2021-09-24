@@ -3,7 +3,7 @@
 <p align="center"> I'm Krishna Shahu, a Front End Web Developer, Designer & Creator 🤓. </p>
 <p align="center">You can reach out to me on <a target="_blank" href="https://www.linkedin.com/in/krishna-shahu-4b20b516a/" rel="nofollow"><img src="https://github.com/krishshah920/krishshah920/blob/main/li.png" alt="LinkedIn" title="LinkedIn icon without padding" style="max-width: 100%;"></a>
  or 
-  <a target="_blank" href="mailto: krishshah920@gmail.com" rel="nofollow"><img src="https://img.icons8.com/ios-filled/20/000000/gmail-new.png" alt="Gmail" title="Gmail icon without padding" style="max-width: 100%;"></a>
+  <a target="_blank" href="mailto: krishshah920@gmail.com" rel="nofollow"><img src="https://img.icons8.com/color/20/000000/gmail-new.png" alt="Gmail" title="Gmail icon without padding" style="max-width: 100%;"></a>
 </p>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/74991c1110d34aa7c7363a478bdf8a0a065a32bdfb640d817641983226ed4af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861"><img src="https://camo.githubusercontent.com/74991c1110d34aa7c7363a478bdf8a0a065a32bdfb640d817641983226ed4af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d326262633861" alt="" data-canonical-src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a" style="max-width: 100%;"></a>
